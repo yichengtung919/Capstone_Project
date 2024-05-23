@@ -6,12 +6,17 @@
 The goal of the project is to gather data from different sources and perform data cleaning and EDA to get a dataframe ready for visiualization. Tableau is the primary tool to look for relationships from the dataframe and visualize the outcomes. The analysis serves as a way to demonstrate the process of using data to compare and explore ways to improve business operation. The example used was in the sports industry but similar process can be used in different business setting in solving business problems.
 
 ## Process
-### Gather data from multiple data sources (https://www.basketball-reference.com/,  Kaggle) and have a basic understanding of what each statistic means.
-### Import data in Jupyter notebook and perform data cleaning, combining, and EDA. 
-### Export final dataframe and import the result in Tableau for data visualization.
-### Visualize data in relation to winning stats and draw insights
-### Interpret the result and create Powerpoint slides for results presentation
-### Create a dashboard to summarize 
+Gather data from multiple data sources (https://www.basketball-reference.com/,  Kaggle) and have a basic understanding of what each statistic means.
+
+Import data in Jupyter notebook and perform data cleaning, combining, and EDA. 
+
+Export final dataframe and import the result in Tableau for data visualization.
+
+Visualize data in relation to winning stats and draw insights
+
+Interpret the result and create Powerpoint slides for results presentation
+
+Create a dashboard to summarize 
 
 ## Results
 NBA statistics were chosen for this project because the sports industry has been using statistics to help improve team operation and player performance monitoring. 
